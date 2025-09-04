@@ -53,7 +53,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/blackdark/blackdark/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/BlackDark/.github/refs/heads/output/github-snake-dark.svg)
   
 </div>
 
