@@ -62,8 +62,6 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://eduard-marbach.de)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduard-marbach)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@eduard-marbach.de)
 
 </div>
 
